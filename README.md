@@ -2,7 +2,7 @@
 
  
 
-- 라즈베리파이 개요, 라즈베리파이 이해, 라즈베리파이 주요사항 및 구조	URL [(TF v2 Keras Code)](https://github.com/solaris33/deep-learning-tensorflow-book-code/blob/master/Ch03-TensorFlow_Basic/3.4-linear_regression_with_tensorboard_v2_keras.py)
+- 라즈베리파이 개요, 라즈베리파이 이해, 라즈베리파이 주요사항 및 구조	[URL](http://www.kocw.net/home/cview.do?lid=8f4bfe3b83958c47)
 - 운영체제 설치, 운영체제 종류, 라즈비안 설치	URL
 운영체제 환경설정(1), 기본환경 설정, 키보드 환경 변경	URL
 운영체제 환경설정(2), Localisation(Internationalisation), 한글 폰트 설치 및 설정	URL
