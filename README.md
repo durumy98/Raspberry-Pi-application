@@ -1,9 +1,9 @@
 # Applications of Raspberry Pi 
 
- `PyQt5 <https://pypi.org/project/PyQt5/>`__
+ 
 
-라즈베리파이 개요, 라즈베리파이 이해, 라즈베리파이 주요사항 및 구조	URL
-운영체제 설치, 운영체제 종류, 라즈비안 설치	URL
+- 라즈베리파이 개요, 라즈베리파이 이해, 라즈베리파이 주요사항 및 구조	URL
+- 운영체제 설치, 운영체제 종류, 라즈비안 설치	URL
 운영체제 환경설정(1), 기본환경 설정, 키보드 환경 변경	URL
 운영체제 환경설정(2), Localisation(Internationalisation), 한글 폰트 설치 및 설정	URL
 리눅스 기본 명령어(1), cd, ls, 디렉터리 관련	URL
