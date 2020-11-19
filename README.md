@@ -1,34 +1,32 @@
 # Applications of Raspberry Pi 
 
- 
-
-- 라즈베리파이 개요, 라즈베리파이 이해, 라즈베리파이 주요사항 및 구조	[URL](http://www.kocw.net/home/cview.do?lid=8f4bfe3b83958c47)
-- 운영체제 설치, 운영체제 종류, 라즈비안 설치	URL
-운영체제 환경설정(1), 기본환경 설정, 키보드 환경 변경	URL
-운영체제 환경설정(2), Localisation(Internationalisation), 한글 폰트 설치 및 설정	URL
-리눅스 기본 명령어(1), cd, ls, 디렉터리 관련	URL
-리눅스 기본 명령어(2), cp, mv, sudo, ifconfig			URL
-원격 접속 설정, SSH 및 VNC					URL
-GPIO 이해, GPIO 구성, 관련 라이브러리			URL
-GPIO 제어 (1), LED 점멸 제어					URL
-GPIO 제어 (2), PWM 사용					URL
-GPIO 제어 (3), 푸시버튼 활용(1)					URL
-GPIO 제어 (4), 푸시버튼 활용(2)					URL
-파이썬 코드 실행하기, 지니 편집기 사용법			URL
-파이썬 기초, 변수 및 연산자, 출력 방법				URL
-파이썬 조건문, 조건문 이해, 조건문 사용				URL
-파이썬 반복문, 반복문 이해, 반복문 사용				URL
-파이썬 함수, 함수 정의, 함수 호출				URL
-파이썬 시퀀스, 리스트, 튜플, 딕셔너리				URL
-라즈베리파이 카메라 제어, 카메라 설치, 카메라 데이터 획득		URL
-OpenCV 개요, OpenCV 개요					URL
-OpenCV 설치 및 카메라 제어, OpenCV 설치 방법, OpenCV에서의 카메라 제어	URL
-NumPy 개요, NumPy 배열 다루기				URL
-matplotlib, matplotlib 개요, matplotlib 그래프 그리기		URL
-영상에 대한 기본연산, 영상 유형, 픽센 단위 접근			URL
-영상처리(1), bitwise 연산, 색 공간, 주요 영상처리 함수 사용	URL
-영상처리(2), 영상 임계화, 모폴로지 변환, 레이블링		URL
-영상분석 처리, 색 기반 객체 검출, 히스토그램 기반 객체 검출		URL
+- 라즈베리파이 개요, 라즈베리파이 이해, 라즈베리파이 주요사항 및 구조	[(URL)](http://www.kocw.net/home/cview.do?lid=8f4bfe3b83958c47)
+- 운영체제 설치, 운영체제 종류, 라즈비안 설치	[(URL)](http://www.kocw.net/home/cview.do?lid=2ad982be2168f0bb)
+- 운영체제 환경설정(1), 기본환경 설정, 키보드 환경 변경	[(URL)](http://www.kocw.net/home/cview.do?lid=ffd66b7d8163caf8)
+- 운영체제 환경설정(2), Localisation(Internationalisation), 한글 폰트 설치 및 설정	[(URL)](http://www.kocw.net/home/cview.do?lid=3270d1c97bd6540e)
+- 리눅스 기본 명령어(1), cd, ls, 디렉터리 관련	[(URL)](http://www.kocw.net/home/cview.do?lid=6b29b0a699999889)
+- 리눅스 기본 명령어(2), cp, mv, sudo, ifconfig	[(URL)](http://www.kocw.net/home/cview.do?lid=6b29b0a699999889)
+- 원격 접속 설정, SSH 및 VNC [(URL)](http://www.kocw.net/home/cview.do?lid=830d3ec36aa151e7)
+- GPIO 이해, GPIO 구성, 관련 라이브러리 [(URL)](http://www.kocw.net/home/cview.do?lid=e17937cad99de06b)
+- GPIO 제어(1), LED 점멸 제어 [(URL)](http://www.kocw.net/home/cview.do?lid=9c08094a75443863)
+- GPIO 제어(2), PWM 사용 [(URL)](http://www.kocw.net/home/cview.do?lid=8f4bfe3b83958c47)
+- GPIO 제어(3), 푸시버튼 활용(1) [(URL)](http://www.kocw.net/home/cview.do?lid=b3cd28f0ae929f4f)
+- GPIO 제어(4), 푸시버튼 활용(2) [(URL)](http://www.kocw.net/home/cview.do?lid=d5bb0568f3038ccf)
+- 파이썬 코드 실행하기, 지니 편집기 사용법 [(URL)](http://www.kocw.net/home/cview.do?lid=e79fc9aaf1da2df5)
+- 파이썬 기초, 변수 및 연산자, 출력 방법 [(URL)](http://www.kocw.net/home/cview.do?lid=590472d1196135e6)
+- 파이썬 조건문, 조건문 이해, 조건문 사용 [(URL)](http://www.kocw.net/home/cview.do?lid=bb1db7904338b932)
+- 파이썬 반복문, 반복문 이해, 반복문 사용 [(URL)](http://www.kocw.net/home/cview.do?lid=b748ec922e5ee9c2)
+- 파이썬 함수, 함수 정의, 함수 호출 [(URL)](http://www.kocw.net/home/cview.do?lid=a42c69450ad2d918)
+- 파이썬 시퀀스, 리스트, 튜플, 딕셔너리 [(URL)](http://www.kocw.net/home/cview.do?lid=e368d07badfeb0cd)
+- 라즈베리파이 카메라 제어, 카메라 설치, 카메라 데이터 획득 [(URL)](http://www.kocw.net/home/cview.do?lid=a763589c3720ccac)
+- OpenCV 개요, OpenCV 개요 [(URL)](http://www.kocw.net/home/cview.do?lid=86f0edb7d6055c47)
+- OpenCV 설치 및 카메라 제어, OpenCV 설치 방법, OpenCV에서의 카메라 제어 [(URL)](http://www.kocw.net/home/cview.do?lid=2e436f454acff9b7)
+- NumPy 개요, NumPy 배열 다루기 [(URL)](http://www.kocw.net/home/cview.do?lid=19c7f5c84e620f57)
+- matplotlib 개요, matplotlib 그래프 그리기 [(URL)](http://www.kocw.net/home/cview.do?lid=817bf79b23dc5792)
+- 영상에 대한 기본연산, 영상 유형, 픽센 단위 접근 [(URL)](http://www.kocw.net/home/cview.do?lid=a88d160354655272)
+- 영상처리(1), bitwise 연산, 색 공간, 주요 영상처리 함수 사용 [(URL)](http://www.kocw.net/home/cview.do?lid=f4836bbbdf748272)
+- 영상처리(2), 영상 임계화, 모폴로지 변환, 레이블링 [(URL)](http://www.kocw.net/home/cview.do?lid=6b8b2321cc0bc846)
+- 영상분석 처리, 색 기반 객체 검출, 히스토그램 기반 객체 검출 [(URL)](http://www.kocw.net/home/cview.do?lid=83868ad96db6e48e)
 
 ## Reference
-- http://www.kocw.net/home/cview.do?cid=4573f5956e61fcdf
+- KOCW, 고등교육 교수학습자료 공동활용 체제, Korea OpenCourseWare [(URL)](http://www.kocw.net/home/index.do)
